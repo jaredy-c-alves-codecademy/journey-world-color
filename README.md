@@ -1,0 +1,1 @@
+Project: **Journey Around the World**, following tasks from Codecademy.
